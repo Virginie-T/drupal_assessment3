@@ -51,7 +51,9 @@ body {
 	float: right;
 }
 
-
+#edit-author--2 {
+	display: none;
+}
 
 
 
